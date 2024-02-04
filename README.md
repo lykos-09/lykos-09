@@ -9,6 +9,8 @@ My name is Rishikesh Zalake, and I'm passionate about Data Science and AWS Cloud
 
 ## Projects
 
-Vist Rishi portfolio to see some of the projects I've worked on ;)
+Vist Rishi_portfolio to see some of the projects I've worked on ;)
+
+https://github.com/lykos-09/Rishi_Portfolio/tree/main
 
 Feel free to explore more about me and my work!
