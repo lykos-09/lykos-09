@@ -12,5 +12,6 @@ My name is Rishikesh Zalake, and I'm passionate about Data Science and AWS Cloud
 Here are some of the projects I've worked on:
 
 - Formula 1 race data project: https://github.com/lykos-09/Rishi_Portfolio/tree/main/Formula%201%20-%20Data%20Project
+- Bitcoin Data analysis: https://github.com/lykos-09/Rishi_Portfolio/tree/main/Bitcoin%20Data%20Analysis%20Project
   
 Feel free to explore more about me and my work!
